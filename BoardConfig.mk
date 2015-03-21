@@ -36,7 +36,7 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 12297699328
 TARGET_USERIMAGES_USE_F2FS := true
 
 # Recovery
-TARGET_RECOVERY_FSTAB := device/lge/d855/rootdir/etc/fstab.g3
+TARGET_RECOVERY_FSTAB := device/lge/g3-common/fstab.twrp
 
 # NFC
 BOARD_NFC_CHIPSET := pn547
